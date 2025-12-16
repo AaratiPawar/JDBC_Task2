@@ -20,9 +20,9 @@ Oracle JDBC Driver (ojdbc14.jar)
 5.Added exception handling for ClassNotFoundException and SQLException.
 ## Project Structure
 # src/
-└── OracleConnectionTest.java
+└── Displaystudends.java
 # lib/
-└── ojdbc14.jar
+└── ojdbc17.jar
 
 ## How to Run
 1. Place the JDBC Driver
